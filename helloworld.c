@@ -2,7 +2,9 @@
 
 int main (void){
 
-    printf("Tacos de pastor.\n");
+    int tacos;
     
+    printf("%d de pastor.\n", tacos);
+
     return 0;
 }
